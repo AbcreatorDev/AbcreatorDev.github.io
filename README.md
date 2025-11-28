@@ -4,18 +4,18 @@ I've been programming for at least **5+ years** and have great experience with t
 
 ---
 
-## Main Programming Languages
+## Main Programming Languages I Use
 - [Luau](https://luau.org)
 - Python
 - JavaScript
 
-## Other Programming Languages
+## Other Programming Languages I Use
 - Java
 - Kotlin
 
 ---
 
-## Notable Projects
+## Notable Projects I've Programmed For
 - [#DUOJAM Duo-Minigames](https://www.roblox.com/games/9864292033)
 - [Talent Jam: Scripting - Robots](https://www.roblox.com/games/10169852179)
 
